@@ -1,0 +1,12 @@
+# Environment files containing credentials
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Sensitive backups and logs
+*.log
+*.bak
+*.sql
+*.tar.gz
